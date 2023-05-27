@@ -1,0 +1,11 @@
+[32mINFO    [0m Test_Login:test_login.py:49 test_login_002 is started
+[32mINFO    [0m Test_Login:test_login.py:51 opening a browser
+[32mINFO    [0m Test_Login:test_login.py:53 Going to url--->https://admin-demo.nopcommerce.com
+[32mINFO    [0m Test_Login:test_login.py:59 Entering Email--->admin@yourstore.com
+[32mINFO    [0m Test_Login:test_login.py:61 Entering Password--->admin
+[32mINFO    [0m Test_Login:test_login.py:63 clicking login
+[32mINFO    [0m Test_Login:test_login.py:66 page title--->Dashboard / nopCommerce administration
+[32mINFO    [0m Test_Login:test_login.py:68 taking sreenshots
+[32mINFO    [0m Test_Login:test_login.py:70 clicking on logout
+[32mINFO    [0m Test_Login:test_login.py:72 test_login_002 is passed
+[32mINFO    [0m Test_Login:test_login.py:79 test_login_002 is completed

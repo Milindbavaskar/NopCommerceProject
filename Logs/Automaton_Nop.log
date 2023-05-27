@@ -1,0 +1,217 @@
+ 2023-05-25 16:51:03,078 : INFO : Test_Login : test_login_001 : 25 : test_login_001 is started
+ 2023-05-25 16:51:03,078 : INFO : Test_Login : test_login_001 : 27 : opening a browser
+ 2023-05-25 16:51:06,871 : INFO : Test_Login : test_login_001 : 29 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 16:51:09,182 : INFO : Test_Login : test_login_001 : 35 : Entering Email--->admin@yourstore.com
+ 2023-05-25 16:51:09,406 : INFO : Test_Login : test_login_001 : 37 : Entering Password--->admin
+ 2023-05-25 16:51:13,943 : INFO : Test_Login : test_login_001 : 39 : clicking login
+ 2023-05-25 16:51:15,964 : INFO : Test_Login : test_login_001 : 42 : page title--->Dashboard / nopCommerce administration
+ 2023-05-25 16:51:16,138 : INFO : Test_Login : test_login_001 : 44 : taking sreenshots
+ 2023-05-25 16:51:17,977 : INFO : Test_Login : test_login_001 : 46 : clicking on logout
+ 2023-05-25 16:51:17,977 : INFO : Test_Login : test_login_001 : 48 : test_login_001 is passed
+ 2023-05-25 16:51:17,977 : INFO : Test_Login : test_login_001 : 54 : test_login_001 is completed
+ 2023-05-25 17:08:47,749 : INFO : Test_Login : test_login_001 : 26 : test_login_001 is started
+ 2023-05-25 17:08:47,750 : INFO : Test_Login : test_login_001 : 28 : opening a browser
+ 2023-05-25 17:08:51,864 : INFO : Test_Login : test_login_001 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 17:08:54,406 : INFO : Test_Login : test_login_001 : 36 : Entering Email--->admin@yourstore.com
+ 2023-05-25 17:08:54,696 : INFO : Test_Login : test_login_001 : 38 : Entering Password--->admin
+ 2023-05-25 17:09:16,140 : INFO : Test_Login : test_login_001 : 40 : clicking login
+ 2023-05-25 17:09:18,159 : INFO : Test_Login : test_login_001 : 43 : page title--->Dashboard / nopCommerce administration
+ 2023-05-25 17:09:18,441 : INFO : Test_Login : test_login_001 : 45 : taking sreenshots
+ 2023-05-25 17:09:22,601 : INFO : Test_Login : test_login_001 : 47 : clicking on logout
+ 2023-05-25 17:09:22,601 : INFO : Test_Login : test_login_001 : 49 : test_login_001 is passed
+ 2023-05-25 17:09:22,602 : INFO : Test_Login : test_login_001 : 56 : test_login_001 is completed
+ 2023-05-25 17:20:09,682 : INFO : Test_Login : test_login_001 : 26 : test_login_001 is started
+ 2023-05-25 17:20:09,683 : INFO : Test_Login : test_login_001 : 28 : opening a browser
+ 2023-05-25 17:20:14,537 : INFO : Test_Login : test_login_001 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 17:20:16,860 : INFO : Test_Login : test_login_001 : 36 : Entering Email--->admin@yourstore.com
+ 2023-05-25 17:20:17,108 : INFO : Test_Login : test_login_001 : 38 : Entering Password--->admin
+ 2023-05-25 17:20:22,066 : INFO : Test_Login : test_login_001 : 40 : clicking login
+ 2023-05-25 17:20:24,084 : INFO : Test_Login : test_login_001 : 51 : page title--->Your store. Login
+ 2023-05-25 17:20:54,283 : INFO : Test_Login : test_login_001 : 53 : test_login_001 is failed
+ 2023-05-25 17:22:23,364 : INFO : Test_Login : test_login_001 : 26 : test_login_001 is started
+ 2023-05-25 17:22:23,365 : INFO : Test_Login : test_login_001 : 28 : opening a browser
+ 2023-05-25 17:22:28,599 : INFO : Test_Login : test_login_001 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 20:33:24,675 : INFO : Test_Login : test_login_001 : 26 : test_login_001 is started
+ 2023-05-25 20:33:24,676 : INFO : Test_Login : test_login_001 : 28 : opening a browser
+ 2023-05-25 20:33:27,847 : INFO : Test_Login : test_login_001 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 20:33:30,149 : INFO : Test_Login : test_login_001 : 36 : Entering Email--->admin@yourstore.com
+ 2023-05-25 20:33:30,535 : INFO : Test_Login : test_login_001 : 38 : Entering Password--->admin
+ 2023-05-25 20:33:35,386 : INFO : Test_Login : test_login_001 : 40 : clicking login
+ 2023-05-25 20:33:37,406 : INFO : Test_Login : test_login_001 : 43 : page title--->Dashboard / nopCommerce administration
+ 2023-05-25 20:33:38,806 : INFO : Test_Login : test_login_001 : 45 : taking sreenshots
+ 2023-05-25 20:33:41,186 : INFO : Test_Login : test_login_001 : 47 : clicking on logout
+ 2023-05-25 20:33:41,187 : INFO : Test_Login : test_login_001 : 49 : test_login_001 is passed
+ 2023-05-25 20:33:41,187 : INFO : Test_Login : test_login_001 : 56 : test_login_001 is completed
+ 2023-05-25 21:21:16,187 : INFO : Test_Login_Params : test_login_params_003 : 26 : test_login_params_003 is started
+ 2023-05-25 21:21:16,484 : INFO : Test_Login_Params : test_login_params_003 : 28 : opening a browser
+ 2023-05-25 21:21:26,078 : INFO : Test_Login_Params : test_login_params_003 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 21:21:29,481 : INFO : Test_Login_Params : test_login_params_003 : 36 : Entering Email--->admin@yourstore.com
+ 2023-05-25 21:21:29,729 : INFO : Test_Login_Params : test_login_params_003 : 38 : Entering Password--->admin
+ 2023-05-25 21:21:34,444 : INFO : Test_Login_Params : test_login_params_003 : 40 : clicking login
+ 2023-05-25 21:21:36,468 : INFO : Test_Login_Params : test_login_params_003 : 45 : page title--->Dashboard / nopCommerce administration
+ 2023-05-25 21:21:36,756 : INFO : Test_Login_Params : test_login_params_003 : 48 : taking sreenshots
+ 2023-05-25 21:21:38,986 : INFO : Test_Login_Params : test_login_params_003 : 50 : clicking on logout button
+ 2023-05-25 21:21:38,986 : INFO : Test_Login_Params : test_login_params_003 : 75 : test_login_Params_003 is Passed
+ 2023-05-25 21:21:38,987 : INFO : Test_Login_Params : test_login_params_003 : 79 : test_login_Params_003 is Completed
+ 2023-05-25 21:21:48,538 : INFO : Test_Login_Params : test_login_params_003 : 26 : test_login_params_003 is started
+ 2023-05-25 21:21:48,538 : INFO : Test_Login_Params : test_login_params_003 : 28 : opening a browser
+ 2023-05-25 21:21:52,592 : INFO : Test_Login_Params : test_login_params_003 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 21:21:55,050 : INFO : Test_Login_Params : test_login_params_003 : 36 : Entering Email--->admin@yourstore.com
+ 2023-05-25 21:21:55,378 : INFO : Test_Login_Params : test_login_params_003 : 38 : Entering Password--->admin1
+ 2023-05-25 21:21:56,465 : INFO : Test_Login_Params : test_login_params_003 : 40 : clicking login
+ 2023-05-25 21:21:58,470 : INFO : Test_Login_Params : test_login_params_003 : 67 : page title--->Your store. Login
+ 2023-05-25 21:21:59,134 : INFO : Test_Login_Params : test_login_params_003 : 70 : taking sreenshots
+ 2023-05-25 21:21:59,134 : INFO : Test_Login_Params : test_login_params_003 : 75 : test_login_Params_003 is Passed
+ 2023-05-25 21:21:59,134 : INFO : Test_Login_Params : test_login_params_003 : 79 : test_login_Params_003 is Completed
+ 2023-05-25 21:22:07,813 : INFO : Test_Login_Params : test_login_params_003 : 26 : test_login_params_003 is started
+ 2023-05-25 21:22:07,813 : INFO : Test_Login_Params : test_login_params_003 : 28 : opening a browser
+ 2023-05-25 21:22:12,379 : INFO : Test_Login_Params : test_login_params_003 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 21:22:14,678 : INFO : Test_Login_Params : test_login_params_003 : 36 : Entering Email--->admin@yourstore.com1
+ 2023-05-25 21:22:14,934 : INFO : Test_Login_Params : test_login_params_003 : 38 : Entering Password--->admin
+ 2023-05-25 21:22:15,858 : INFO : Test_Login_Params : test_login_params_003 : 40 : clicking login
+ 2023-05-25 21:22:17,879 : INFO : Test_Login_Params : test_login_params_003 : 67 : page title--->Your store. Login
+ 2023-05-25 21:22:18,113 : INFO : Test_Login_Params : test_login_params_003 : 70 : taking sreenshots
+ 2023-05-25 21:22:18,113 : INFO : Test_Login_Params : test_login_params_003 : 75 : test_login_Params_003 is Passed
+ 2023-05-25 21:22:18,113 : INFO : Test_Login_Params : test_login_params_003 : 79 : test_login_Params_003 is Completed
+ 2023-05-25 21:22:27,175 : INFO : Test_Login_Params : test_login_params_003 : 26 : test_login_params_003 is started
+ 2023-05-25 21:22:27,175 : INFO : Test_Login_Params : test_login_params_003 : 28 : opening a browser
+ 2023-05-25 21:22:30,703 : INFO : Test_Login_Params : test_login_params_003 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 21:22:33,113 : INFO : Test_Login_Params : test_login_params_003 : 36 : Entering Email--->admin@yourstore.com1
+ 2023-05-25 21:22:33,452 : INFO : Test_Login_Params : test_login_params_003 : 38 : Entering Password--->admin1
+ 2023-05-25 21:22:34,513 : INFO : Test_Login_Params : test_login_params_003 : 40 : clicking login
+ 2023-05-25 21:22:36,516 : INFO : Test_Login_Params : test_login_params_003 : 61 : page title--->Your store. Login
+ 2023-05-25 21:22:36,758 : INFO : Test_Login_Params : test_login_params_003 : 64 : taking sreenshots
+ 2023-05-25 21:32:03,453 : INFO : Test_Login : test_login_002 : 26 : test_login_002 is started
+ 2023-05-25 21:32:03,454 : INFO : Test_Login : test_login_002 : 28 : opening a browser
+ 2023-05-25 21:32:09,221 : INFO : Test_Login : test_login_002 : 30 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-25 21:32:13,312 : INFO : Test_Login : test_login_002 : 36 : Entering Email--->admin@yourstore.com
+ 2023-05-25 21:32:13,589 : INFO : Test_Login : test_login_002 : 38 : Entering Password--->admin
+ 2023-05-25 21:32:22,125 : INFO : Test_Login : test_login_002 : 40 : clicking login
+ 2023-05-25 21:32:24,145 : INFO : Test_Login : test_login_002 : 43 : page title--->Dashboard / nopCommerce administration
+ 2023-05-25 21:32:24,413 : INFO : Test_Login : test_login_002 : 45 : taking sreenshots
+ 2023-05-25 21:32:26,605 : INFO : Test_Login : test_login_002 : 47 : clicking on logout
+ 2023-05-25 21:32:26,605 : INFO : Test_Login : test_login_002 : 49 : test_login_002 is passed
+ 2023-05-25 21:32:26,606 : INFO : Test_Login : test_login_002 : 56 : test_login_002 is completed
+ 2023-05-26 16:21:33,038 : INFO : Test_Login_DDT : test_login_ddt_004 : 19 : test_login_ddt_004 is started
+ 2023-05-26 16:21:33,038 : INFO : Test_Login_DDT : test_login_ddt_004 : 21 : opening a browser
+ 2023-05-26 16:21:35,092 : INFO : Test_Login_DDT : test_login_ddt_004 : 23 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-26 16:24:15,630 : INFO : Test_Login_DDT : test_login_ddt_004 : 19 : test_login_ddt_004 is started
+ 2023-05-26 16:24:15,631 : INFO : Test_Login_DDT : test_login_ddt_004 : 21 : opening a browser
+ 2023-05-27 07:50:11,109 : INFO : Test_Login_DDT : test_login_ddt_004 : 19 : test_login_ddt_004 is started
+ 2023-05-27 07:50:11,203 : INFO : Test_Login_DDT : test_login_ddt_004 : 21 : opening a browser
+ 2023-05-27 07:50:16,232 : INFO : Test_Login_DDT : test_login_ddt_004 : 23 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 07:50:17,060 : INFO : Test_Login_DDT : test_login_ddt_004 : 34 : Entering Email--->admin@yourstore.com
+ 2023-05-27 07:50:17,370 : INFO : Test_Login_DDT : test_login_ddt_004 : 36 : Entering Password--->admin
+ 2023-05-27 07:50:22,857 : INFO : Test_Login_DDT : test_login_ddt_004 : 38 : clicking login
+ 2023-05-27 07:50:24,874 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : page title--->Dashboard / nopCommerce administration
+ 2023-05-27 07:53:42,589 : INFO : Test_Login_DDT : test_login_ddt_004 : 19 : test_login_ddt_004 is started
+ 2023-05-27 07:53:42,589 : INFO : Test_Login_DDT : test_login_ddt_004 : 21 : opening a browser
+ 2023-05-27 07:53:46,804 : INFO : Test_Login_DDT : test_login_ddt_004 : 23 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 07:53:47,259 : INFO : Test_Login_DDT : test_login_ddt_004 : 34 : Entering Email--->admin@yourstore.com
+ 2023-05-27 07:53:47,529 : INFO : Test_Login_DDT : test_login_ddt_004 : 36 : Entering Password--->admin
+ 2023-05-27 07:53:52,382 : INFO : Test_Login_DDT : test_login_ddt_004 : 38 : clicking login
+ 2023-05-27 07:53:54,403 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : page title--->Dashboard / nopCommerce administration
+ 2023-05-27 07:53:54,698 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : taking sreenshots
+ 2023-05-27 07:53:56,672 : INFO : Test_Login_DDT : test_login_ddt_004 : 47 : clicking on logout button
+ 2023-05-27 07:56:56,676 : INFO : Test_Login_DDT : test_login_ddt_004 : 19 : test_login_ddt_004 is started
+ 2023-05-27 07:56:56,676 : INFO : Test_Login_DDT : test_login_ddt_004 : 21 : opening a browser
+ 2023-05-27 07:57:01,591 : INFO : Test_Login_DDT : test_login_ddt_004 : 23 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 07:57:02,477 : INFO : Test_Login_DDT : test_login_ddt_004 : 34 : Entering Email--->admin@yourstore.com
+ 2023-05-27 07:57:02,734 : INFO : Test_Login_DDT : test_login_ddt_004 : 36 : Entering Password--->admin
+ 2023-05-27 07:57:10,086 : INFO : Test_Login_DDT : test_login_ddt_004 : 38 : clicking login
+ 2023-05-27 07:57:12,105 : INFO : Test_Login_DDT : test_login_ddt_004 : 42 : page title--->Dashboard / nopCommerce administration
+ 2023-05-27 07:57:12,512 : INFO : Test_Login_DDT : test_login_ddt_004 : 45 : taking sreenshots
+ 2023-05-27 07:57:15,717 : INFO : Test_Login_DDT : test_login_ddt_004 : 47 : clicking on logout button
+ 2023-05-27 07:57:15,873 : INFO : Test_Login_DDT : test_login_ddt_004 : 77 : test_login_ddt_004 is Passed
+ 2023-05-27 07:57:15,877 : INFO : Test_Login_DDT : test_login_ddt_004 : 81 : test_login_ddt_004 is Completed
+ 2023-05-27 07:57:16,414 : INFO : Test_Login_DDT : test_login_ddt_004 : 34 : Entering Email--->admin@yourstore.com1
+ 2023-05-27 07:57:16,654 : INFO : Test_Login_DDT : test_login_ddt_004 : 36 : Entering Password--->admin
+ 2023-05-27 07:57:18,095 : INFO : Test_Login_DDT : test_login_ddt_004 : 38 : clicking login
+ 2023-05-27 07:57:20,108 : INFO : Test_Login_DDT : test_login_ddt_004 : 68 : page title--->Your store. Login
+ 2023-05-27 07:57:20,333 : INFO : Test_Login_DDT : test_login_ddt_004 : 71 : taking sreenshots
+ 2023-05-27 07:57:20,394 : INFO : Test_Login_DDT : test_login_ddt_004 : 77 : test_login_ddt_004 is Passed
+ 2023-05-27 07:57:20,395 : INFO : Test_Login_DDT : test_login_ddt_004 : 81 : test_login_ddt_004 is Completed
+ 2023-05-27 07:57:20,738 : INFO : Test_Login_DDT : test_login_ddt_004 : 34 : Entering Email--->admin@yourstore.com
+ 2023-05-27 07:57:20,998 : INFO : Test_Login_DDT : test_login_ddt_004 : 36 : Entering Password--->admin1
+ 2023-05-27 07:57:21,793 : INFO : Test_Login_DDT : test_login_ddt_004 : 38 : clicking login
+ 2023-05-27 07:57:23,811 : INFO : Test_Login_DDT : test_login_ddt_004 : 68 : page title--->Your store. Login
+ 2023-05-27 07:57:24,000 : INFO : Test_Login_DDT : test_login_ddt_004 : 71 : taking sreenshots
+ 2023-05-27 07:57:24,050 : INFO : Test_Login_DDT : test_login_ddt_004 : 77 : test_login_ddt_004 is Passed
+ 2023-05-27 07:57:24,050 : INFO : Test_Login_DDT : test_login_ddt_004 : 81 : test_login_ddt_004 is Completed
+ 2023-05-27 07:57:24,435 : INFO : Test_Login_DDT : test_login_ddt_004 : 34 : Entering Email--->admin@yourstore.com1
+ 2023-05-27 07:57:24,664 : INFO : Test_Login_DDT : test_login_ddt_004 : 36 : Entering Password--->admin1
+ 2023-05-27 07:57:25,414 : INFO : Test_Login_DDT : test_login_ddt_004 : 38 : clicking login
+ 2023-05-27 07:57:27,433 : INFO : Test_Login_DDT : test_login_ddt_004 : 68 : page title--->Your store. Login
+ 2023-05-27 07:57:27,626 : INFO : Test_Login_DDT : test_login_ddt_004 : 71 : taking sreenshots
+ 2023-05-27 07:57:27,678 : INFO : Test_Login_DDT : test_login_ddt_004 : 77 : test_login_ddt_004 is Passed
+ 2023-05-27 07:57:27,678 : INFO : Test_Login_DDT : test_login_ddt_004 : 81 : test_login_ddt_004 is Completed
+ 2023-05-27 08:14:05,953 : INFO : Test_Login : test_page_title_001 : 16 : test_login_001 is started
+ 2023-05-27 08:14:05,954 : INFO : Test_Login : test_page_title_001 : 18 : opening a browser
+ 2023-05-27 08:14:10,605 : INFO : Test_Login : test_page_title_001 : 20 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 08:14:10,623 : INFO : Test_Login : test_page_title_001 : 22 : page title--->Your store. Login
+ 2023-05-27 08:14:10,623 : INFO : Test_Login : test_page_title_001 : 24 : test_login_001 is passed
+ 2023-05-27 08:14:17,124 : INFO : Test_Login : test_login_002 : 31 : test_login_002 is started
+ 2023-05-27 08:14:17,125 : INFO : Test_Login : test_login_002 : 33 : opening a browser
+ 2023-05-27 08:14:21,189 : INFO : Test_Login : test_login_002 : 35 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 08:14:23,500 : INFO : Test_Login : test_login_002 : 41 : Entering Email--->admin@yourstore.com
+ 2023-05-27 08:14:23,760 : INFO : Test_Login : test_login_002 : 43 : Entering Password--->admin
+ 2023-05-27 08:14:28,882 : INFO : Test_Login : test_login_002 : 45 : clicking login
+ 2023-05-27 08:14:30,897 : INFO : Test_Login : test_login_002 : 48 : page title--->Dashboard / nopCommerce administration
+ 2023-05-27 08:14:31,150 : INFO : Test_Login : test_login_002 : 50 : taking sreenshots
+ 2023-05-27 08:14:33,066 : INFO : Test_Login : test_login_002 : 52 : clicking on logout
+ 2023-05-27 08:14:33,067 : INFO : Test_Login : test_login_002 : 54 : test_login_002 is passed
+ 2023-05-27 08:14:33,067 : INFO : Test_Login : test_login_002 : 61 : test_login_002 is completed
+ 2023-05-27 08:54:05,614 : INFO : Test_Login : test_page_title_001 : 20 : test_login_001 is started
+ 2023-05-27 08:54:05,615 : INFO : Test_Login : test_page_title_001 : 22 : opening a browser
+ 2023-05-27 08:54:09,572 : INFO : Test_Login : test_page_title_001 : 24 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 08:54:09,622 : INFO : Test_Login : test_page_title_001 : 26 : page title--->Your store. Login
+ 2023-05-27 08:54:09,912 : INFO : Test_Login : test_page_title_001 : 29 : taking sreenshots
+ 2023-05-27 08:54:09,913 : INFO : Test_Login : test_page_title_001 : 31 : test_page_title_001 is passed
+ 2023-05-27 08:54:14,849 : INFO : Test_Login : test_page_title_001 : 39 : test_page_title_001 is completed
+ 2023-05-27 08:54:24,664 : INFO : Test_Login : test_login_002 : 43 : test_login_002 is started
+ 2023-05-27 08:54:24,665 : INFO : Test_Login : test_login_002 : 45 : opening a browser
+ 2023-05-27 08:54:27,956 : INFO : Test_Login : test_login_002 : 47 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 08:54:33,212 : INFO : Test_Login : test_login_002 : 53 : Entering Email--->admin@yourstore.com
+ 2023-05-27 08:54:33,518 : INFO : Test_Login : test_login_002 : 55 : Entering Password--->admin
+ 2023-05-27 08:54:44,585 : INFO : Test_Login : test_login_002 : 57 : clicking login
+ 2023-05-27 08:54:46,603 : INFO : Test_Login : test_login_002 : 60 : page title--->Dashboard / nopCommerce administration
+ 2023-05-27 08:54:46,867 : INFO : Test_Login : test_login_002 : 62 : taking sreenshots
+ 2023-05-27 08:54:48,860 : INFO : Test_Login : test_login_002 : 64 : clicking on logout
+ 2023-05-27 08:54:48,861 : INFO : Test_Login : test_login_002 : 66 : test_login_002 is passed
+ 2023-05-27 08:54:48,861 : INFO : Test_Login : test_login_002 : 73 : test_login_002 is completed
+ 2023-05-27 17:08:34,595 : INFO : Test_Login : test_page_title_001 : 21 : test_login_001 is started
+ 2023-05-27 17:08:34,596 : INFO : Test_Login : test_page_title_001 : 23 : opening a browser
+ 2023-05-27 17:08:43,075 : INFO : Test_Login : test_page_title_001 : 25 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 17:08:43,099 : INFO : Test_Login : test_page_title_001 : 27 : page title--->Your store. Login
+ 2023-05-27 17:08:43,380 : INFO : Test_Login : test_page_title_001 : 30 : taking sreenshots
+ 2023-05-27 17:08:43,380 : INFO : Test_Login : test_page_title_001 : 32 : test_page_title_001 is passed
+ 2023-05-27 17:08:44,454 : INFO : Test_Login : test_page_title_001 : 40 : test_page_title_001 is completed
+ 2023-05-27 17:08:53,554 : INFO : Test_Login : test_login_002 : 47 : test_login_002 is started
+ 2023-05-27 17:08:53,554 : INFO : Test_Login : test_login_002 : 49 : opening a browser
+ 2023-05-27 17:08:58,193 : INFO : Test_Login : test_login_002 : 51 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 17:09:00,709 : INFO : Test_Login : test_login_002 : 57 : Entering Email--->admin@yourstore.com
+ 2023-05-27 17:09:01,319 : INFO : Test_Login : test_login_002 : 59 : Entering Password--->admin
+ 2023-05-27 17:09:18,261 : INFO : Test_Login : test_login_002 : 61 : clicking login
+ 2023-05-27 17:09:20,283 : INFO : Test_Login : test_login_002 : 64 : page title--->Dashboard / nopCommerce administration
+ 2023-05-27 17:09:20,537 : INFO : Test_Login : test_login_002 : 66 : taking sreenshots
+ 2023-05-27 17:09:23,279 : INFO : Test_Login : test_login_002 : 68 : clicking on logout
+ 2023-05-27 17:09:23,280 : INFO : Test_Login : test_login_002 : 70 : test_login_002 is passed
+ 2023-05-27 17:09:23,280 : INFO : Test_Login : test_login_002 : 77 : test_login_002 is completed
+ 2023-05-27 20:29:26,010 : INFO : Test_Login : test_page_title_001 : 23 : test_login_001 is started
+ 2023-05-27 20:29:26,012 : INFO : Test_Login : test_page_title_001 : 25 : opening a browser
+ 2023-05-27 20:29:32,060 : INFO : Test_Login : test_page_title_001 : 27 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 20:29:32,093 : INFO : Test_Login : test_page_title_001 : 29 : page title--->Your store. Login
+ 2023-05-27 20:29:32,682 : INFO : Test_Login : test_page_title_001 : 32 : taking sreenshots
+ 2023-05-27 20:29:32,682 : INFO : Test_Login : test_page_title_001 : 34 : test_page_title_001 is passed
+ 2023-05-27 20:29:35,096 : INFO : Test_Login : test_page_title_001 : 42 : test_page_title_001 is completed
+ 2023-05-27 20:29:41,543 : INFO : Test_Login : test_login_002 : 49 : test_login_002 is started
+ 2023-05-27 20:29:41,543 : INFO : Test_Login : test_login_002 : 51 : opening a browser
+ 2023-05-27 20:29:45,965 : INFO : Test_Login : test_login_002 : 53 : Going to url--->https://admin-demo.nopcommerce.com
+ 2023-05-27 20:29:48,523 : INFO : Test_Login : test_login_002 : 59 : Entering Email--->admin@yourstore.com
+ 2023-05-27 20:29:48,884 : INFO : Test_Login : test_login_002 : 61 : Entering Password--->admin
+ 2023-05-27 20:29:54,828 : INFO : Test_Login : test_login_002 : 63 : clicking login
+ 2023-05-27 20:29:56,850 : INFO : Test_Login : test_login_002 : 66 : page title--->Dashboard / nopCommerce administration
+ 2023-05-27 20:29:59,304 : INFO : Test_Login : test_login_002 : 68 : taking sreenshots
+ 2023-05-27 20:30:02,208 : INFO : Test_Login : test_login_002 : 70 : clicking on logout
+ 2023-05-27 20:30:02,208 : INFO : Test_Login : test_login_002 : 72 : test_login_002 is passed
+ 2023-05-27 20:30:02,208 : INFO : Test_Login : test_login_002 : 79 : test_login_002 is completed

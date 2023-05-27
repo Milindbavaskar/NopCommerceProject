@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Login:test_login.py:23 test_login_001 is started
+[32mINFO    [0m Test_Login:test_login.py:25 opening a browser
+[32mINFO    [0m Test_Login:test_login.py:27 Going to url--->https://admin-demo.nopcommerce.com
+[32mINFO    [0m Test_Login:test_login.py:29 page title--->Your store. Login
+[32mINFO    [0m Test_Login:test_login.py:32 taking sreenshots
+[32mINFO    [0m Test_Login:test_login.py:34 test_page_title_001 is passed
+[32mINFO    [0m Test_Login:test_login.py:42 test_page_title_001 is completed
